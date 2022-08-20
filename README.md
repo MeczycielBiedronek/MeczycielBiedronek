@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeczycielBiedronek
 - 👀 I’m interested in Beekeeping 
-- 🌱 I’m currently learning React.js  
+- 🌱 I’m currently learning Node.js  
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me? = fistah at Gmail
 
