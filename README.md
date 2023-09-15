@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MeczycielBiedronek 🔨
-- 👀 I’m interested in Beekeeping 🐝
+- 👀 I’m a beekeeper 🐝
 - 🌱 I’m currently connected to Express.js and I love it ♨️ 🔌
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me? = fistah(G)mail
